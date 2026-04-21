@@ -4,7 +4,7 @@ A **Streamlit-based web application** that predicts the number of kilocalories b
 
 ##  Try It Now
 Click the link to launch the app instantly:  
-[**Personal Fitness Tracker**](https://personal-fitness-tracker-run.streamlit.app/)
+[**Personal Fitness Tracker**]([https://personal-fitness-tracker-run.streamlit.app/](https://personal-fitness-tracker-juojvkyy9rqo3hzd2mr7ga.streamlit.app/))
 
 ---
 ##  Features
